@@ -35,7 +35,7 @@ function getSavedColumns() {
     backlogListArray = [' ', ' '];
     progressListArray = [' ', ' '];
     completeListArray = [' ', ' '];
-    onHoldListArray = [' '];
+    onHoldListArray = [' ', ' '];
   }
 }
 
