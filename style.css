@@ -1,15 +1,15 @@
 /* Bg Image - Pexels: https://www.pexels.com*/
-@import url("https://fonts.googleapis.com/css?family=Quicksand&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
 
 html {
   box-sizing: border-box;
 }
 
 :root {
-  --column-1: #a2622d;
-  --column-2: #1b6161;
-  --column-3: #248224;
-  --column-4: #a22d22;
+  --column-1: #cc066c ;
+  --column-2: #ff007f ;
+  --column-3: #ff66b2 ;
+  --column-4: #ff99cc ;
 }
 
 body {
@@ -19,7 +19,7 @@ body {
   background-position: 50% 60%;
   background-attachment: fixed;
   color: white;
-  font-family: Quicksand, sans-serif;
+  font-family: 'Patrick Hand', cursive;
   overflow-y: hidden;
 }
 
@@ -179,7 +179,7 @@ ul {
 
 .solid:hover {
   transition: unset;
-  filter: brightness(95%);
+  filter: brightness(100%);
   color: white;
 }
 
